@@ -1,7 +1,7 @@
 ### Summary
 The following code pulls the data from the provided csv files, prompts the user for input that is used to filter the data accordingly, then displays some useful statistics from the filtered data.
 
-### Data Structure:
+### Data Structure
 File format: The data is stored in three CSV files, named `chicago.csv`, `new_york_city.csv`, and `washington.csv`, where each file represents bikeshare data for a specific city.
 
 Features: Each CSV file contains the following features for each bikeshare trip:
